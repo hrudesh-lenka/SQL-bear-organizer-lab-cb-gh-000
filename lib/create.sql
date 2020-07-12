@@ -1,4 +1,4 @@
-create table bears(id	integer primary key,
+create table bears(id	INTEGER primary key,
 name	text,
 age	integer,
 gender	text,
