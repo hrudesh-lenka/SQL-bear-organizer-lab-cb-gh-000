@@ -1,0 +1,8 @@
+insert into bears(name)
+values(Mr. Chocolate)
+values(Rowdy)
+values(Tabitha)
+values(Sergeant Brown)
+values(Melissa)
+values(Grinch)
+values(Wendy)
